@@ -1,7 +1,7 @@
 ## Hi there
 
 🔭 Currently building Gnoxis — tired of losing context and switching between tools to find what I already knew, so I built my own AI-powered knowledge base. Open source, self-hosted, bring your own keys. 
-Take a look if you're dev or project manager: https://github.com/facundoacostayl/gnoxis
+**Take a look if you're dev or project manager**: https://github.com/facundoacostayl/gnoxis
 
 ----------------------------------------------
 
